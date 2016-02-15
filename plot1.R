@@ -17,5 +17,3 @@ hist(maindata$Global_active_power, xlab="Global Active Power (kilowatts)", col="
 # Completing
 dev.off()
 remove(maindata)
-
-
